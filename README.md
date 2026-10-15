@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TEJAS%20SRI%20S.%20M.&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%2F%2F%20SOLVE%20%2F%2F%20EVOLVE&descAlignY=57&descSize=16&animation=fadeIn&color=0:050816,40:172554,75:6D28D9,100:00E5FF" alt="Cyberpunk developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TEJAS%20SRI%20S%20M&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%2F%2F%20SOLVE%20%2F%2F%20EVOLVE&descAlignY=57&descSize=16&animation=fadeIn&color=0:050816,40:172554,75:6D28D9,100:00E5FF" alt="Cyberpunk developer banner"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=B.Tech+IT+%7C+Third-Year+Student;Aspiring+Software+Engineer;Java+%7C+Python+%7C+Problem+Solving;Learning+Today.+Building+Tomorrow." alt="Animated developer introduction"/>
