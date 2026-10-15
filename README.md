@@ -1,303 +1,247 @@
-# 👋 Hey, I'm Tejas Sri
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:334155,100:06B6D4&height=220&section=header&text=Tejas%20Sri&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20%7C%20Java%20%7C%20Problem%20Solving&descAlignY=55&descSize=17](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,50:334155,100:06B6D4\&height=220\&section=header\&text=Tejas%20Sri\&fontSize=55\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Development%20%7C%20Java%20%7C%20Problem%20Solving\&descAlignY=55\&descSize=17)" width="100%" alt="Tejas Sri developer banner" />
-\</p>
+<div align="center">
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/tejassri-sm](https://github.com/tejassri-sm)">
-&#x20;   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=B.Tech+IT+%7C+Third-Year+Student;Aspiring+Software+Developer;Java+%7C+Python+%7C+Problem+Solving;Learning+%E2%80%A2+Building+%E2%80%A2+Improving](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&pause=1000\&color=06B6D4\&center=true\&vCenter=true\&width=650\&lines=B.Tech+IT+%7C+Third-Year+Student;Aspiring+Software+Developer;Java+%7C+Python+%7C+Problem+Solving;Learning+%E2%80%A2+Building+%E2%80%A2+Improving)" alt="Animated developer introduction" />
-&#x20; \</a>
-\</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TEJAS%20SRI%20S.%20M.&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%2F%2F%20SOLVE%20%2F%2F%20EVOLVE&descAlignY=57&descSize=16&animation=fadeIn&color=0:050816,40:172554,75:6D28D9,100:00E5FF" alt="Cyberpunk developer banner"/>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/tejassri-sm](https://github.com/tejassri-sm)">\<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github)" alt="GitHub Profile" />\</a>
-&#x20; \<a href="[https://www.linkedin.com/in/tejas-sri-sm-0b909a444](https://www.linkedin.com/in/tejas-sri-sm-0b909a444)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />\</a>
-&#x20; \<a href="[https://leetcode.com/u/tejassri_sm/](https://leetcode.com/u/tejassri_sm/)">\<img src="[https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />\</a>
-&#x20; \<a href="[https://www.hackerrank.com/profile/tejassri456](https://www.hackerrank.com/profile/tejassri456)">\<img src="[https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)" alt="HackerRank" />\</a>
-\</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=B.Tech+IT+%7C+Third-Year+Student;Aspiring+Software+Engineer;Java+%7C+Python+%7C+Problem+Solving;Learning+Today.+Building+Tomorrow." alt="Animated developer introduction"/>
+</a>
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=tejassri-sm&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square](https://komarev.com/ghpvc/?username=tejassri-sm\&label=PROFILE%20VIEWS\&color=06B6D4\&style=flat-square)" alt="Profile views" />
-\</p>
+<br/>
 
----
+<a href="https://github.com/tejassri-sm">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/tejas-sri-sm-0b909a444">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=9D7BFF" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/tejassri_sm/">
+<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/tejassri456">
+<img src="https://img.shields.io/badge/HACKERRANK-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00E676" alt="HackerRank"/>
+</a>
 
-## 01 — 👩‍💻 About Me
-
-Hey there! I'm **Tejas Sri**, a third-year B.Tech Information Technology student passionate about software development, problem-solving, and building practical applications.
-
-I enjoy understanding how things work, exploring new technologies, and transforming ideas into working software. I'm currently strengthening my programming fundamentals, practising data structures and algorithms, and preparing for software engineering placements.
-
-For me, coding isn't just about making a program work — it's about understanding the logic, solving problems efficiently, and continuously improving the way I build things.
-
-- 🎓 **Education:** B.Tech in Information Technology
-- 💻 **Primary languages:** Java and Python
-- 🧠 **Current focus:** Data structures, algorithms, and programming fundamentals
-- 🛠️ **Development interests:** Application development and software engineering
-- 🌐 **Tools:** Git, GitHub, and VS Code
-- 📚 **Learning:** Advanced Java, backend development, and Spring Boot
-- 🎯 **Goal:** Become a skilled software developer with strong technical fundamentals
-
-My goal is to build reliable, useful, and well-structured software while growing into an engineer who can understand a problem, design a solution, and implement it effectively.
+</div>
 
 ---
 
-## 02 — 🧩 My Technical Universe
+<div align="center">
 
-### Programming Languages
+## `01` // DEVELOPER IDENTITY
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c](https://skillicons.dev/icons?i=java,python,c)" alt="Java, Python, and C" />
-\</p>
+**Not just learning to code. Learning to engineer.**
 
-### Tools & Platforms
+</div>
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode](https://skillicons.dev/icons?i=git,github,vscode)" alt="Git, GitHub, and VS Code" />
-\</p>
+```java
+public class TejasSri {
 
-### Technologies I'm Learning & Exploring
+    String degree = "B.Tech Information Technology";
+    String academicYear = "Third Year";
+    String careerGoal = "Software Engineer";
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,mysql,html,css,flask](https://skillicons.dev/icons?i=spring,mysql,html,css,flask)" alt="Spring Boot, MySQL, HTML, CSS, and Flask" />
-\</p>
+    String[] languages = {"Java", "Python"};
 
-| Area                 | Focus                                             |
-| -------------------- | ------------------------------------------------- |
-| Programming          | Java, Python, C, programming fundamentals         |
-| Problem-solving      | Data structures, algorithms, logical thinking     |
-| Software development | Application logic, debugging, modular code        |
-| Backend development  | Java backend concepts, Spring Boot learning path  |
-| Databases            | SQL and MySQL fundamentals                        |
-| Development workflow | Git, GitHub, version control                      |
-| Project building     | Turning concepts into practical applications      |
-| Continuous learning  | Exploring tools and technologies through practice |
+    public void mission() {
+        System.out.println(
+            "Learn. Build. Solve. Evolve."
+        );
+    }
+}
+```
 
-*Skill icons represent technologies I use or explore; they do not imply expert-level proficiency in every technology.*
+I'm **Tejas Sri S. M.**, a third-year B.Tech Information Technology student working toward a career in software engineering.
+
+I enjoy exploring programming concepts, solving problems, and turning ideas into practical applications.
+
+- `01` — Strengthening Java and object-oriented programming.
+- `02` — Practising data structures and algorithms.
+- `03` — Building useful applications through hands-on development.
+- `04` — Exploring databases, backend engineering, and Spring Boot.
+- `05` — Improving through experimentation, debugging, and consistent learning.
+
+> My philosophy: write code to solve problems, not just to complete tasks.
 
 ---
 
-## 03 — 🚀 My Featured Projects
+<div align="center">
 
-A selection of projects from my GitHub repositories that reflect my programming practice and application-development journey.
+## `02` // TECH STACK
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode&theme=dark" alt="Technology stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CORE-JAVA%20%7C%20OOP%20%7C%20DSA-00E5FF?style=flat-square&labelColor=0D1117" alt="Core skills"/>
+<img src="https://img.shields.io/badge/DATABASE-SQL-9D7BFF?style=flat-square&labelColor=0D1117" alt="Database"/>
+<img src="https://img.shields.io/badge/TOOLS-GIT%20%7C%20GITHUB-00E676?style=flat-square&labelColor=0D1117" alt="Tools"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` // PROJECTS IN MY UNIVERSE
+
+<sub>Three practical projects. One continuously evolving developer.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_01-00E5FF?style=flat-square&labelColor=0D1117" alt="Project one"/>
 
 ### 🌦️ Weather Forecasting System
 
-**Java · Application Development**
+A weather-focused application exploring the presentation of weather information and forecasts.
 
-A weather-focused application project built to explore how a software application can present weather-related information through a user-friendly interface.
+**FOCUS**
 
-**Key areas**
+- Application logic
+- Weather information
+- Data presentation
 
-- Weather information presentation
-- Java programming and application logic
-- User interaction and data handling
-- Practical application development
+<a href="https://github.com/tejassri-sm/WeatherForecastingSystem">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="View source code"/>
+</a>
 
-🔗 **[Explore the repository](https://github.com/tejassri-sm/WeatherForecastingSystem)**
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_02-9D7BFF?style=flat-square&labelColor=0D1117" alt="Project two"/>
 
 ### 💱 Currency Converter
 
-**Programming · Currency Conversion**
+A utility application focused on converting monetary values between currencies.
 
-A currency-conversion project focused on converting monetary values between currencies and practising the logic behind numerical inputs, calculations, and output presentation.
+**FOCUS**
 
-**Key areas**
+- Conversion logic
+- Currency values
+- User interaction
 
-- Currency conversion logic
-- Numerical calculations
-- Input and output handling
-- Application workflow design
+<a href="https://github.com/tejassri-sm/CurrencyConverter">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=9D7BFF" alt="View source code"/>
+</a>
 
-🔗 **[Explore the repository](https://github.com/tejassri-sm/CurrencyConverter)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_03-00E676?style=flat-square&labelColor=0D1117" alt="Project three"/>
 
 ### 💸 Expense Splitter
 
-**Programming · Financial Utility**
+A practical utility designed around splitting shared expenses and calculating costs.
 
-An expense-splitting application designed around the problem of managing shared expenses and calculating how costs can be divided among people.
-
-**Key areas**
+**FOCUS**
 
 - Expense calculations
 - Shared-cost management
-- Logical problem-solving
-- Practical utility development
+- Application logic
 
-🔗 **[Explore the repository](https://github.com/tejassri-sm/ExpenseSplitter)**
+<a href="https://github.com/tejassri-sm/ExpenseSplitter">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E676" alt="View source code"/>
+</a>
 
-### 🔐 Caesar Cipher
+</td>
+<td width="50%" valign="top">
 
-**Python · Cryptography Fundamentals**
+<img src="https://img.shields.io/badge/NEXT_MISSION-IN_PROGRESS-FFB86C?style=flat-square&labelColor=0D1117" alt="Next mission"/>
 
-A programming exercise exploring classical text encryption through character shifting and string manipulation.
+### ⚡ Next Mission
 
-**Concepts explored**
+**From fundamentals to engineering**
 
-- String processing
-- Character transformations
-- Encryption and decryption logic
-- Conditional statements and loops
+- Stronger Java fundamentals
+- DSA and coding interviews
+- Backend development
+- Database-driven applications
+- Clean, maintainable code
 
-### 🅿️ Smart Parking System with Dynamic Pricing
-
-**Java · Smart Systems · Application Logic**
-
-An application concept focused on managing parking availability and exploring dynamic pricing based on parking-related conditions.
-
-**Focus areas**
-
-- Parking-slot management
-- Pricing logic
-- Application workflow design
-- Real-world problem-solving
-
-### 🌱 What's Next?
-
-I'm continuing to strengthen my existing projects and work toward building more complete applications with better documentation, cleaner code, and improved functionality.
-
-*Repository links above point to published GitHub projects. Descriptions should be updated whenever the implementation changes.*
+</td>
+</tr>
+</table>
 
 ---
 
-## 04 — 💡 Selected Project Work & Innovation
+<div align="center">
 
-Beyond my smaller public repositories, I'm interested in projects that connect software engineering with practical, real-world problems.
+## `04` // PROBLEM-SOLVING MODE
 
-### 🦺 Safety Incident Analytics Portal
+<a href="https://leetcode.com/u/tejassri_sm/">
+<img src="https://img.shields.io/badge/LEETCODE-ALGORITHMS%20%26%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-**Web Development · Data Analytics · Safety Management**
+<a href="https://www.hackerrank.com/profile/tejassri456">
+<img src="https://img.shields.io/badge/HACKERRANK-CODING%20CHALLENGES-00E676?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
 
-A project concept focused on digital safety-incident reporting, investigation tracking, and analytics to help organize workplace safety information.
+<br/><br/>
 
-**Focus areas**
+I practise coding to improve my logical reasoning, explore different approaches, understand edge cases, and learn how to make solutions more efficient.
 
-- Incident and near-miss reporting
-- Investigation and action tracking
-- Role-based access concepts
-- Dashboard-based analytics
+**The goal isn't only to solve it. Understand why it works.**
 
-### 🚗 Predictive & Smart Monitoring Systems
-
-**IoT · Sensors · Monitoring**
-
-Exploring how sensor readings, software logic, and alerts can help monitor physical systems and identify unusual conditions.
-
-**Focus areas**
-
-- Sensor-based monitoring concepts
-- Threshold-based warnings
-- Data visualization
-- Practical automation
-
-### 🤖 Intelligent Applications & Automation
-
-**Software Development · AI Exploration**
-
-Interested in exploring how intelligent features and automation can improve the usefulness of everyday software applications.
-
-**Focus areas**
-
-- AI-assisted workflows
-- Information processing
-- Automation concepts
-- Practical software integration
-
-*This section highlights project work and technical interests beyond the featured public repositories. Project implementation and completion status may vary.*
+</div>
 
 ---
 
-## 05 — 📈 GitHub Analytics
+<div align="center">
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=tejassri-sm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=tejassri-sm\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" alt="GitHub statistics" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tejassri-sm&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassri-sm\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most-used repository languages" />
-\</p>
+## `05` // GITHUB ACTIVITY
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=tejassri-sm&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=tejassri-sm\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" />
-\</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassri-sm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=9D7BFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=tejassri-sm&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=tejassri-sm\&theme=tokyo-night\&hide_border=true)" width="100%" alt="GitHub contribution activity graph" />
-\</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassri-sm&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Language statistics"/>
 
-*These visualizations rely on external services and may occasionally load slowly or display incomplete data. Repository language statistics reflect code composition, not personal proficiency.*
+<br/>
 
----
+<img width="75%" src="https://streak-stats.demolab.com?user=tejassri-sm&hide_border=true&background=0D1117&ring=9D7BFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8793AD" alt="GitHub contribution streak"/>
 
-## 06 — 🧠 Coding Profiles
+</div>
 
-### LeetCode
-
-\<p>
-&#x20; \<a href="[https://leetcode.com/u/tejassri_sm/](https://leetcode.com/u/tejassri_sm/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="Visit LeetCode" />
-&#x20; \</a>
-\</p>
-
-I practise coding problems to strengthen my logical thinking, improve my understanding of algorithms, and prepare for technical interviews.
-
-### HackerRank
-
-\<p>
-&#x20; \<a href="[https://www.hackerrank.com/profile/tejassri456](https://www.hackerrank.com/profile/tejassri456)">
-&#x20;   \<img src="[https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)" alt="Visit HackerRank" />
-&#x20; \</a>
-\</p>
-
-I use coding exercises to reinforce programming fundamentals and become more comfortable solving problems independently.
+<sub>Statistics are generated by external services and may vary in availability. Language cards reflect detected repository code, not overall programming proficiency.</sub>
 
 ---
 
-## 07 — 🎯 What I'm Working Toward
+<div align="center">
 
-- [ ] Strengthen Java fundamentals and learn advanced Java concepts.
-- [ ] Practise data structures and algorithms consistently.
-- [ ] Improve problem-solving speed and code quality.
-- [ ] Build backend applications using Java and Spring Boot.
-- [ ] Strengthen SQL and database concepts.
-- [ ] Improve Git, GitHub, and project documentation practices.
-- [ ] Develop complete, practical projects with maintainable code.
-- [ ] Prepare for technical interviews and software engineering placements.
+## `06` // THE ROAD AHEAD
 
-*This is my learning roadmap, and I'll update it as I make progress.*
+</div>
 
----
-
-## 08 — ✨ Beyond the Code
-
-I believe becoming a good developer is about more than learning programming languages. It also means developing curiosity, patience, adaptability, and the ability to learn from mistakes.
-
-**What drives me**
-
-- 🔍 **Curiosity** — understanding why a solution works.
-- 🧩 **Problem-solving** — breaking complex problems into manageable steps.
-- 🛠️ **Practical learning** — applying concepts through projects.
-- 📈 **Continuous improvement** — learning, debugging, and refining.
-- 🤝 **Collaboration** — sharing ideas and learning from other developers.
-- 🚀 **Consistency** — making steady progress, one concept at a time.
+| MISSION | FOCUS |
+|---|---|
+| Foundations | Java, OOP, DSA |
+| Problem solving | Algorithms and complexity |
+| Development | Backend and Spring Boot |
+| Engineering | Databases, debugging, documentation |
+| Career | Software engineering internships and placements |
 
 ---
 
-## 09 — 🌐 Let's Connect
+<div align="center">
 
-I'm always happy to connect with fellow developers, exchange ideas, learn about new technologies, and collaborate on interesting projects.
+## `07` // ESTABLISH CONNECTION
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/tejassri-sm](https://github.com/tejassri-sm)">\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)" alt="GitHub" />\</a>
-&#x20; \<a href="[https://www.linkedin.com/in/tejas-sri-sm-0b909a444](https://www.linkedin.com/in/tejas-sri-sm-0b909a444)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" alt="LinkedIn" />\</a>
-&#x20; \<a href="[https://leetcode.com/u/tejassri_sm/](https://leetcode.com/u/tejassri_sm/)">\<img src="[https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />\</a>
-&#x20; \<a href="[https://www.hackerrank.com/profile/tejassri456](https://www.hackerrank.com/profile/tejassri456)">\<img src="[https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)" alt="HackerRank" />\</a>
-\</p>
+**Developers grow faster when they keep learning and building.**
 
-\<p align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:334155,100:0F172A&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,50:334155,100:0F172A\&height=120\&section=footer)" width="100%" alt="Decorative footer banner" />
-\</p>
+Open to connecting with developers, students, mentors, and recruiters.
 
-\<p align="center">
-&#x20; \<b>BUILD • LEARN • SOLVE • IMPROVE\</b>
-&#x20; \<br/>
-&#x20; Thanks for visiting my profile! Every project is a new opportunity to learn, experiment, and grow. 💙
-\</p>
+<a href="https://github.com/tejassri-sm">GITHUB</a>
+&nbsp; // &nbsp;
+<a href="https://www.linkedin.com/in/tejas-sri-sm-0b909a444">LINKEDIN</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,50:5421A8,100:050816" alt="Cyberpunk footer"/>
+
+<sub>LEARN CONSTANTLY // BUILD MEANINGFULLY // THINK DIFFERENTLY</sub>
+
+</div>
