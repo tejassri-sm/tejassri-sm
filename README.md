@@ -1,76 +1,100 @@
 
 <div align="center">
 
-## `03` // PROJECTS IN MY UNIVERSE
+# TEJAS SRI S. M.
 
-<sub>Different problems. Practical solutions. One growing developer journey.</sub>
+### Aspiring Software Engineer
+
+B.Tech Information Technology · Third-Year Student
+
+<br/>
+
+Building practical solutions. Strengthening fundamentals.
+Growing into a better engineer, one project at a time.
+
+<br/>
+
+<a href="https://github.com/tejassri-sm">GitHub</a>
+&nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/tejas-sri-sm-0b909a444">LinkedIn</a>
+&nbsp; / &nbsp;
+<a href="https://leetcode.com/u/tejassri_sm/">LeetCode</a>
+&nbsp; / &nbsp;
+<a href="https://www.hackerrank.com/profile/tejassri456">HackerRank</a>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-<img src="https://img.shields.io/badge/01-WEATHER%20SYSTEM-00E5FF?style=flat-square&labelColor=0D1117" alt="Weather project"/>
+## About
 
-### 🌦️ Weather Forecasting System
+I'm a third-year B.Tech Information Technology student working toward becoming a Software Engineer.
+
+I enjoy understanding how things work, solving programming problems, and developing applications that address practical needs. My focus is on building strong fundamentals and applying what I learn through hands-on projects.
+
+- **Programming:** Java and Python
+- **Problem-solving:** Data structures, algorithms, and coding challenges
+- **Development:** Application logic, databases, and software design
+- **Currently exploring:** Backend development and Spring Boot
+- **Career goal:** Grow into a software engineer who builds reliable, useful software
+
+## Selected Projects
+
+### 01 — Weather Forecasting System
 
 A weather-focused application exploring the presentation of weather information and forecasts.
 
-**Focus:** Application logic · Data presentation
+**Repository:** [WeatherForecastingSystem](https://github.com/tejassri-sm/WeatherForecastingSystem)
 
-<a href="https://github.com/tejassri-sm/WeatherForecastingSystem">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explore Weather Forecasting System"/>
-</a>
+### 02 — Currency Converter
 
-</td>
-<td width="50%" valign="top">
+An application focused on currency conversion and making monetary comparisons easier.
 
-<img src="https://img.shields.io/badge/02-CURRENCY%20CONVERTER-9D7BFF?style=flat-square&labelColor=0D1117" alt="Currency converter project"/>
+**Repository:** [CurrencyConverter](https://github.com/tejassri-sm/CurrencyConverter)
 
-### 💱 Currency Converter
+### 03 — Expense Splitter
 
-A utility project focused on currency conversion and making monetary value comparisons easier.
+A practical application focused on splitting shared expenses and simplifying cost calculations.
 
-**Focus:** Conversion logic · User interaction
+**Repository:** [ExpenseSplitter](https://github.com/tejassri-sm/ExpenseSplitter)
 
-<a href="https://github.com/tejassri-sm/CurrencyConverter">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=9D7BFF" alt="Explore Currency Converter"/>
-</a>
+## Technical Toolkit
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="https://img.shields.io/badge/03-EXPENSE%20SPLITTER-00E676?style=flat-square&labelColor=0D1117" alt="Expense splitter project"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode&theme=light" alt="Java, Python, MySQL, HTML, CSS, Git, GitHub and VS Code"/>
 
-### 💸 Expense Splitter
+</div>
 
-A practical utility for managing shared expenses and splitting costs between people.
+My current focus is on improving programming fundamentals, writing readable code, understanding algorithms, and learning to structure maintainable applications.
 
-**Focus:** Calculation logic · Expense management
+## Development Activity
 
-<a href="https://github.com/tejassri-sm/ExpenseSplitter">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0D1117?style=for-the-badge&logo=github&logoColor=00E676" alt="Explore Expense Splitter"/>
-</a>
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassri-sm&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=171717&icon_color=525252&text_color=404040" alt="GitHub statistics"/>
 
-<img src="https://img.shields.io/badge/NEXT-UNDER%20DEVELOPMENT-FFB86C?style=flat-square&labelColor=0D1117" alt="Future projects"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassri-sm&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=171717&text_color=404040" alt="Most-used languages in public repositories"/>
 
-### ⚡ What's Next?
+</div>
 
-Continuing to strengthen my software engineering skills through:
+## Beyond the Code
 
-- Java and object-oriented programming
-- Data structures and algorithms
-- Backend development and databases
-- Building practical, well-documented applications
+I use coding challenges to practise logical reasoning, explore different approaches, and improve my understanding of algorithms.
 
-**The mission:** Learn by building. Improve by solving.
+- [LeetCode — Problem-solving practice](https://leetcode.com/u/tejassri_sm/)
+- [HackerRank — Programming challenges](https://www.hackerrank.com/profile/tejassri456)
 
-</td>
-</tr>
-</table>
+## Let's Connect
+
+I'm interested in learning from developers, collaborating on meaningful projects, and exploring software engineering internship and placement opportunities.
+
+<div align="center">
+
+[GitHub](https://github.com/tejassri-sm) · [LinkedIn](https://www.linkedin.com/in/tejas-sri-sm-0b909a444)
+
+<br/>
+
+*Learn continuously. Build thoughtfully. Improve consistently.*
+
+</div>
