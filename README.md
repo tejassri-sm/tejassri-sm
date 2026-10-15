@@ -1,128 +1,247 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="dark">
-<title>Tejas Sri S.M. | Software Engineering Aspirant</title>
-<meta name="description" content="Third-year B.Tech IT student building in Java and Python. Projects, problem-solving and contact links.">
-<style>
-  :root{
-    color-scheme: dark;
-    --bg:#0b1220; --card:#121b2e; --text:#e6edf7; --muted:#93a1b8;
-    --accent:#22d3ee; --border:#1f2c47;
-  }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-  a{color:var(--accent);text-decoration:none}
-  a:hover{text-decoration:underline}
-  .wrap{max-width:860px;margin:0 auto;padding:0 20px}
-  header{padding:64px 0 32px}
-  h1{font-size:clamp(2rem,6vw,3rem);margin:0 0 8px;line-height:1.15}
-  .tag{color:var(--muted);font-size:1.1rem;margin:0 0 20px}
-  .links{display:flex;flex-wrap:wrap;gap:10px}
-  .btn{padding:8px 16px;border:1px solid var(--border);border-radius:999px;background:var(--card);color:var(--text);font-size:.95rem}
-  .btn:hover{border-color:var(--accent);text-decoration:none}
-  .btn.primary{background:var(--accent);color:#06222a;border-color:var(--accent);font-weight:600}
-  section{padding:28px 0}
-  h2{font-size:1.3rem;margin:0 0 16px}
-  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
-  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px}
-  .card h3{margin:0 0 6px;font-size:1.05rem}
-  .card p{margin:0 0 10px;color:var(--muted);font-size:.95rem}
-  .chips{display:flex;flex-wrap:wrap;gap:6px}
-  .chip{font-size:.8rem;padding:2px 10px;border-radius:999px;border:1px solid var(--border);color:var(--muted)}
-  .status{font-size:.75rem;color:var(--accent)}
-  ul.steps{padding-left:20px;margin:0}
-  ul.steps li{margin-bottom:8px}
-  footer{padding:32px 0 56px;color:var(--muted);font-size:.9rem;border-top:1px solid var(--border);margin-top:24px}
-</style>
-</head>
-<body>
-<div class="wrap">
 
-  <header>
-    <h1>Tejas Sri S.M.</h1>
-    <p class="tag">Third-year B.Tech IT student · aspiring software engineer · Java &amp; Python</p>
-    <div class="links">
-      <a class="btn primary" href="https://www.linkedin.com/in/tejas-sri-sm-0b909a444">LinkedIn</a>
-      <a class="btn" href="https://github.com/tejassri-sm">GitHub</a>
-      <a class="btn" href="https://leetcode.com/u/tejassri_sm/">LeetCode</a>
-      <a class="btn" href="https://www.hackerrank.com/profile/tejassri456">HackerRank</a>
-      <!-- TODO: <a class="btn" href="resume.pdf">Resume</a> -->
-    </div>
-  </header>
+<div align="center">
 
-  <section>
-    <h2>About</h2>
-    <div class="card">
-      <ul class="steps">
-        <li><strong>Learn</strong> fundamentals properly: C, Java, Python, OOP, SQL basics.</li>
-        <li><strong>Build</strong> small, working programs that solve everyday problems.</li>
-        <li><strong>Practise</strong> data structures and algorithms in public on LeetCode and HackerRank.</li>
-      </ul>
-      <p style="margin:14px 0 0;color:var(--muted)">Currently learning Spring Boot and REST APIs. Looking for software engineering internships and entry-level roles.</p>
-    </div>
-  </section>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TEJAS%20SRI%20S.%20M.&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%2F%2F%20SOLVE%20%2F%2F%20EVOLVE&descAlignY=57&descSize=16&animation=fadeIn&color=0:050816,40:172554,75:6D28D9,100:00E5FF" alt="Cyberpunk developer banner"/>
 
-  <section>
-    <h2>Projects</h2>
-    <div class="grid" id="projects"></div>
-  </section>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=B.Tech+IT+%7C+Third-Year+Student;Aspiring+Software+Engineer;Java+%7C+Python+%7C+Problem+Solving;Learning+Today.+Building+Tomorrow." alt="Animated developer introduction"/>
+</a>
 
-  <section>
-    <h2>Skills</h2>
-    <div class="chips" id="skills"></div>
-  </section>
+<br/>
 
-  <footer>
-    <span id="year"></span> Tejas Sri S.M. · Hosted on GitHub Pages
-  </footer>
+<a href="https://github.com/tejassri-sm">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/tejas-sri-sm-0b909a444">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=9D7BFF" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/tejassri_sm/">
+<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/tejassri456">
+<img src="https://img.shields.io/badge/HACKERRANK-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00E676" alt="HackerRank"/>
+</a>
+
 </div>
 
-<script>
-  // Edit these arrays; nothing else needs to change.
-  const projects = [
-    {
-      name: "Weather Forecasting System",
-      desc: "Java application that turns weather data into a readable forecast. TODO: add one line on features.",
-      tags: ["Java"],
-      url: "https://github.com/tejassri-sm/WeatherForecastingSystem",
-      status: ""
-    },
-    {
-      name: "Currency Converter",
-      desc: "C program for converting between currencies. TODO: add one line on features.",
-      tags: ["C"],
-      url: "https://github.com/tejassri-sm/CurrencyConverter",
-      status: ""
-    },
-    {
-      name: "Expense Splitter",
-      desc: "Planned Java + SQL app for splitting shared costs and settling who owes whom.",
-      tags: ["Java", "SQL"],
-      url: "",
-      status: "In progress"
+---
+
+<div align="center">
+
+## `01` // DEVELOPER IDENTITY
+
+**Not just learning to code. Learning to engineer.**
+
+</div>
+
+```java
+public class TejasSri {
+
+    String degree = "B.Tech Information Technology";
+    String academicYear = "Third Year";
+    String careerGoal = "Software Engineer";
+
+    String[] languages = {"Java", "Python"};
+
+    public void mission() {
+        System.out.println(
+            "Learn. Build. Solve. Evolve."
+        );
     }
-  ];
-  const skills = ["Java", "Python", "C", "OOP", "Data Structures", "Algorithms", "SQL / MySQL", "HTML", "CSS", "Git & GitHub", "VS Code"];
+}
+```
 
-  const grid = document.getElementById("projects");
-  projects.forEach(p => {
-    const card = document.createElement("div");
-    card.className = "card";
-    const title = p.url ? `<a href="${p.url}">${p.name}</a>` : p.name;
-    card.innerHTML =
-      `<h3>${title}</h3>` +
-      (p.status ? `<div class="status">${p.status}</div>` : "") +
-      `<p>${p.desc}</p>` +
-      `<div class="chips">${p.tags.map(t => `<span class="chip">${t}</span>`).join("")}</div>`;
-    grid.appendChild(card);
-  });
+I'm **Tejas Sri S. M.**, a third-year B.Tech Information Technology student working toward a career in software engineering.
 
-  document.getElementById("skills").innerHTML =
-    skills.map(s => `<span class="chip">${s}</span>`).join("");
-  document.getElementById("year").textContent = "© " + new Date().getFullYear();
-</script>
-</body>
-</html>
+I enjoy exploring programming concepts, solving problems, and turning ideas into practical applications.
+
+- `01` — Strengthening Java and object-oriented programming.
+- `02` — Practising data structures and algorithms.
+- `03` — Building useful applications through hands-on development.
+- `04` — Exploring databases, backend engineering, and Spring Boot.
+- `05` — Improving through experimentation, debugging, and consistent learning.
+
+> My philosophy: write code to solve problems, not just to complete tasks.
+
+---
+
+<div align="center">
+
+## `02` // TECH STACK
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,git,github,vscode&theme=dark" alt="Technology stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CORE-JAVA%20%7C%20OOP%20%7C%20DSA-00E5FF?style=flat-square&labelColor=0D1117" alt="Core skills"/>
+<img src="https://img.shields.io/badge/DATABASE-SQL-9D7BFF?style=flat-square&labelColor=0D1117" alt="Database"/>
+<img src="https://img.shields.io/badge/TOOLS-GIT%20%7C%20GITHUB-00E676?style=flat-square&labelColor=0D1117" alt="Tools"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` // PROJECTS IN MY UNIVERSE
+
+<sub>Three practical projects. One continuously evolving developer.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_01-00E5FF?style=flat-square&labelColor=0D1117" alt="Project one"/>
+
+### 🌦️ Weather Forecasting System
+
+A weather-focused application exploring the presentation of weather information and forecasts.
+
+**FOCUS**
+
+- Application logic
+- Weather information
+- Data presentation
+
+<a href="https://github.com/tejassri-sm/WeatherForecastingSystem">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="View source code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_02-9D7BFF?style=flat-square&labelColor=0D1117" alt="Project two"/>
+
+### 💱 Currency Converter
+
+A utility application focused on converting monetary values between currencies.
+
+**FOCUS**
+
+- Conversion logic
+- Currency values
+- User interaction
+
+<a href="https://github.com/tejassri-sm/CurrencyConverter">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=9D7BFF" alt="View source code"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_03-00E676?style=flat-square&labelColor=0D1117" alt="Project three"/>
+
+### 💸 Expense Splitter
+
+A practical utility designed around splitting shared expenses and calculating costs.
+
+**FOCUS**
+
+- Expense calculations
+- Shared-cost management
+- Application logic
+
+<a href="https://github.com/tejassri-sm/ExpenseSplitter">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E676" alt="View source code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/NEXT_MISSION-IN_PROGRESS-FFB86C?style=flat-square&labelColor=0D1117" alt="Next mission"/>
+
+### ⚡ Next Mission
+
+**From fundamentals to engineering**
+
+- Stronger Java fundamentals
+- DSA and coding interviews
+- Backend development
+- Database-driven applications
+- Clean, maintainable code
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04` // PROBLEM-SOLVING MODE
+
+<a href="https://leetcode.com/u/tejassri_sm/">
+<img src="https://img.shields.io/badge/LEETCODE-ALGORITHMS%20%26%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/tejassri456">
+<img src="https://img.shields.io/badge/HACKERRANK-CODING%20CHALLENGES-00E676?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+</a>
+
+<br/><br/>
+
+I practise coding to improve my logical reasoning, explore different approaches, understand edge cases, and learn how to make solutions more efficient.
+
+**The goal isn't only to solve it. Understand why it works.**
+
+</div>
+
+---
+
+<div align="center">
+
+## `05` // GITHUB ACTIVITY
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejassri-sm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=9D7BFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassri-sm&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Language statistics"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=tejassri-sm&hide_border=true&background=0D1117&ring=9D7BFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8793AD" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Statistics are generated by external services and may vary in availability. Language cards reflect detected repository code, not overall programming proficiency.</sub>
+
+---
+
+<div align="center">
+
+## `06` // THE ROAD AHEAD
+
+</div>
+
+| MISSION | FOCUS |
+|---|---|
+| Foundations | Java, OOP, DSA |
+| Problem solving | Algorithms and complexity |
+| Development | Backend and Spring Boot |
+| Engineering | Databases, debugging, documentation |
+| Career | Software engineering internships and placements |
+
+---
+
+<div align="center">
+
+## `07` // ESTABLISH CONNECTION
+
+**Developers grow faster when they keep learning and building.**
+
+Open to connecting with developers, students, mentors, and recruiters.
+
+<a href="https://github.com/tejassri-sm">GITHUB</a>
+&nbsp; // &nbsp;
+<a href="https://www.linkedin.com/in/tejas-sri-sm-0b909a444">LINKEDIN</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,50:5421A8,100:050816" alt="Cyberpunk footer"/>
+
+<sub>LEARN CONSTANTLY // BUILD MEANINGFULLY // THINK DIFFERENTLY</sub>
+
+</div>
