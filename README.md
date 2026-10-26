@@ -83,9 +83,12 @@ I enjoy exploring programming concepts, solving problems, and turning ideas into
 
 <div align="center">
 
+
+<div align="center">
+
 ## `03` // PROJECTS IN MY UNIVERSE
 
-<sub>Three practical projects. One continuously evolving developer.</sub>
+<sub>Four practical projects. One continuously evolving developer.</sub>
 
 </div>
 
@@ -106,7 +109,7 @@ A weather-focused application exploring the presentation of weather information 
 - Data presentation
 
 <a href="https://github.com/tejassri-sm/WeatherForecastingSystem">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="View source code"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="View Weather Forecasting System source code"/>
 </a>
 
 </td>
@@ -125,11 +128,12 @@ A utility application focused on converting monetary values between currencies.
 - User interaction
 
 <a href="https://github.com/tejassri-sm/CurrencyConverter">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=9D7BFF" alt="View source code"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=9D7BFF" alt="View Currency Converter source code"/>
 </a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -146,11 +150,43 @@ A practical utility designed around splitting shared expenses and calculating co
 - Application logic
 
 <a href="https://github.com/tejassri-sm/ExpenseSplitter">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E676" alt="View source code"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=00E676" alt="View Expense Splitter source code"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT_04-FF4D6D?style=flat-square&labelColor=0D1117" alt="Project four"/>
+
+### 🩸 Blood Bank Reservation System
+
+A Flask-based web application designed to manage blood inventory, donations, and blood reservation requests through role-specific dashboards.
+
+**TECH STACK**
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FLASK-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask"/>
+<img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=flat-square" alt="Flask SQLAlchemy"/>
+
+**KEY FEATURES**
+
+- Role-based Admin, Donor, Receiver, and Hospital dashboards
+- Blood inventory and donation history management
+- Blood reservation requests with priority levels
+- Compatible blood-type alternative suggestions
+- Notifications and donor eligibility tracking
+- Inventory expiry monitoring and admin analytics
+
+<a href="https://github.com/tejassri-sm/Blood_Bank_Reservation_System">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=FF4D6D" alt="View Blood Bank Reservation System source code"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
 
 <img src="https://img.shields.io/badge/NEXT_MISSION-IN_PROGRESS-FFB86C?style=flat-square&labelColor=0D1117" alt="Next mission"/>
 
@@ -168,7 +204,6 @@ A practical utility designed around splitting shared expenses and calculating co
 </tr>
 </table>
 
----
 
 <div align="center">
 
